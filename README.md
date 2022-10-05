@@ -1,16 +1,17 @@
 ## para iniciar o projeto 
-php artisan serve - se não rodar será preciso npm install antes.
+npm install
+php artisan serve
 
-## para o banco de dados Usei o mySQL no software dbeahver
+database mySQL (Workbanch, dbeahver ou qualquer gerenciador de sua preferência)
 
-## para testar as requisições usei o Postman
+para as Requests utilizei o Postman (insomnia ou qualquer outra também serve)
 
 ## Cadastrar usuário
 
 Para cadastrar uma tarifa será necessário criar um usuário.
 Usei o console interativo do ***Laravel / Tinker***
 
-<!--php artisan tinker (entrar na linha de comando Tinker)
+php artisan tinker (entrar na linha de comando Tinker)
 Psy Shell v0.11.8 (PHP 8.1.10 — cli) by Justin Hileman
 
 > $user = new \App\User(); // laravel 9 nao consegue mapear o arquivo, sendo necessario passar todo o caminho 
@@ -49,12 +50,13 @@ created_at: "2022-09-27 01:38:29",
 updated_at: "2022-09-27 01:38:29",
 },
 ],
-} -->
+}
 
-<p align="center"><img src="https://drive.google.com/file/d/15FyHAEcb0rwvo2ZMlaF0JD1V2tvNWJpG/view?usp=sharing"width="400" alt="Teste create tarifa"></p>
+## Teste create
+<p align="center"><a href="https://drive.google.com/file/d/15FyHAEcb0rwvo2ZMlaF0JD1V2tvNWJpG/view?usp=sharing" target="_blank" width="400" alt="Teste create tarifa"></p>
 
-
-<p align="center"><img src="https://drive.google.com/file/d/1H3bDmlYh4KxkUUevUUO0VC5mSHNQ0Lsw/view?usp=sharing"width="400" alt="Teste update tarifa"></p>
+## teste Update
+<p align="center"><a href="https://drive.google.com/file/d/1H3bDmlYh4KxkUUevUUO0VC5mSHNQ0Lsw/view?usp=sharing" target="_blank" width="400" alt="Teste update tarifa"></p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
