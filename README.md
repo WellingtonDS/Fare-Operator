@@ -53,10 +53,10 @@ updated_at: "2022-09-27 01:38:29",
 }
 
 ## Teste create
-<p align="center"><a href="https://drive.google.com/file/d/15FyHAEcb0rwvo2ZMlaF0JD1V2tvNWJpG/view?usp=sharing" target="_blank" width="400" alt="Teste create tarifa"></p>
+<p align="center"><a href="https://drive.google.com/file/d/15FyHAEcb0rwvo2ZMlaF0JD1V2tvNWJpG/view?usp=sharing" target="_blank" width="400" alt="Teste create tarifa"></a></p>
 
 ## teste Update
-<p align="center"><a href="https://drive.google.com/file/d/1H3bDmlYh4KxkUUevUUO0VC5mSHNQ0Lsw/view?usp=sharing" target="_blank" width="400" alt="Teste update tarifa"></p>
+<p align="center"><a href="https://drive.google.com/file/d/1H3bDmlYh4KxkUUevUUO0VC5mSHNQ0Lsw/view?usp=sharing" target="_blank" width="400" alt="Teste update tarifa"></a></p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
